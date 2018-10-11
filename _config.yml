@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Machine Learning
 tagline: Site Tagline
 author :
   name : Ada
   email : sundancer.sun@foxmail.com
   github : Ada
-  twitter : username
+  twitter : 
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
