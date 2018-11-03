@@ -1,3 +1,3 @@
 《Machine Learing In Action》
-by jupyter notepad
-python3
+--jupyter notepad
+--python3
